@@ -1,2 +1,2 @@
 # Primitive-Numbers
-Check is a modular field has primitive numbers and which numbers they are
+This program checks if a modular field has primitive numbers and produces the elements that are primitive numbers. There is a fun version of this code and a more practical version of this code. 
