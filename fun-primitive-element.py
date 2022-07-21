@@ -27,5 +27,3 @@ def Find_all_prim_elements(mod):
         print(cowsay.get_output_string(char_name = 'milk', text=f"The primitive elements of Modulo {mod} are {primitive}"))
     else: print(cowsay.get_output_string(char_name = 'cow', text=f"There are no primitve elements in Modulo {mod}."))
 
-Find_all_prim_elements(5)
-Find_all_prim_elements(6)
